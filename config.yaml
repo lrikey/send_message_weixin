@@ -3,15 +3,15 @@
 DAILY_TIME: "12:00" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
 
 START_DATE: "2020-05-20" # 纪念日
-CITY: "重庆"
+CITY: "北京"
 
 BIRTHDAY:
   - "07-29"
 
-APP_ID: "wxf8ef17313714ef79"
-APP_SECRET: "204b4d1a9d725c76e9e6eaebd7764604"
+APP_ID: ""
+APP_SECRET: ""
 
 USER_ID: 
-  - "orvY16j7PH2V0DGHO5pI5kaAT9fc"
+  - ""
 
-TEMPLATE_ID: "l4s8R615SkjmYGHinY9G1KfdyepGNO9jPaHy_5X3jtU"
+TEMPLATE_ID: ""
